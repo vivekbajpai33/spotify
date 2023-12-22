@@ -1,1 +1,1 @@
-# spotyfy
+# spotify
